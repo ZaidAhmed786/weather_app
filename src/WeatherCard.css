@@ -157,3 +157,70 @@
     text-align: center;
     color: grey;
   }
+
+
+
+
+  
+
+
+
+
+
+  button{
+    width:70px;
+    height:22px;
+    background:#323405;;
+    border: 2px solid #0489B1;
+    color: white;
+  }
+  
+  button:hover{
+    width:70px;
+    height:22px;
+    background:#323405;;
+    border: 2px solid #0489B1;
+    color: white;
+  }
+  
+  input{
+    font-size: large;
+    width: 227px;
+    height: 28px;
+    margin-right: 10px;
+    background: #d6dada;
+    border: 2px solid #323405;
+    color: rgb(11, 11, 11);
+}
+  
+  
+  #test{
+    width:256px;
+    height:300px;
+    margin-top: 10px;
+    background: #F5D0A9;
+    display: none;
+  }
+  
+  #test p{
+    font-family: Helvetica;
+    font-size: 16;
+    color: #DF0101;
+    text-align: center;
+  }
+  .search_div{
+    margin: 21px;
+    justify-content: space-between;
+    display: flex;
+    width: 84%;
+  
+  }
+  .div_min_max{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+  
+   
